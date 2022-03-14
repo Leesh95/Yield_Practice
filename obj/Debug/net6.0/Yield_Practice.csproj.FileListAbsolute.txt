@@ -1,0 +1,15 @@
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\Yield_Practice.exe
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\Yield_Practice.deps.json
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\Yield_Practice.runtimeconfig.json
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\Yield_Practice.dll
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\ref\Yield_Practice.dll
+C:\VisualStudio2022\C#\Yield_Practice\bin\Debug\net6.0\Yield_Practice.pdb
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.csproj.AssemblyReference.cache
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.AssemblyInfoInputs.cache
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.AssemblyInfo.cs
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.dll
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\ref\Yield_Practice.dll
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.pdb
+C:\VisualStudio2022\C#\Yield_Practice\obj\Debug\net6.0\Yield_Practice.genruntimeconfig.cache
